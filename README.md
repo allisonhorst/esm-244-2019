@@ -1,5 +1,7 @@
 # ESM 244
 
+Allison is the best ever! 
+
 Winter 2019
 
 Week | Lecture Links | Lab Materials
