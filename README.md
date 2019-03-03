@@ -1,5 +1,7 @@
 # ESM 244
 
+[![](https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_first_then.png)](https://github.com/allisonhorst)
+
 Winter 2019
 
 Week | Lecture Links | Lab Materials
