@@ -1,7 +1,5 @@
 # ESM 244
 
-[![](https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/r_first_then.png)](https://github.com/allisonhorst)
-
 Winter 2019
 
 Week | Lecture Links | Lab Materials
@@ -14,3 +12,4 @@ Week | Lecture Links | Lab Materials
 6 | [Lecture 11: Spatial data, projections, variograms](https://docs.google.com/presentation/d/1g7JRttE1RcK42Ef-jt16BTIP0uyCZgQSLHR_EnLM6OU/edit?usp=sharing)<br>[Lecture 12: Kriging](https://docs.google.com/presentation/d/1v3g0Sp61J2gXJ-4Vm8oVAmd9QHgOJZbC2iPU3YZssAs/edit?usp=sharing) | [Lab 6: Getting, wrangling and viewing spatial data](https://github.com/allisonhorst/esm-244-lab-6)
 7 | [Lecture 13: Point pattern analysis, k-means clustering](https://docs.google.com/presentation/d/1fCZBhSfuDlxgnUHoKTCZqfoc3X_XQEQeUDPycYC4u5U/edit?usp=sharing) | [Lab 7: Rasters, Kriging, PPA](https://github.com/allisonhorst/esm-244-lab-7)
 8 | [Lecture 14: Hierarchical clustering, Bayesian thinking intro](https://docs.google.com/presentation/d/122eYRQ1qVV6KHnYhoi9GJgrb32PavDYd_Ai84-MO7C8/edit?usp=sharing)<br>[Lecture 15: Bayesian + text analysis case studies](https://docs.google.com/presentation/d/1c9O6Japdt8omaYX-_lE9dVWv1k8onIKCyS__Egz0D1E/edit?usp=sharing) | [Lab 8: Cluster analysis (k-means + hierarchical), + some text wrangling/sentiment analysis](https://github.com/allisonhorst/esm-244-lab-8)
+9 | [Lecture 16: Graph theory terms, data sci collaboration](https://docs.google.com/presentation/d/1613B8OCVVuN2eh7a8JyCXrDH5H9n8VDTFok8aCQiNeI/edit?usp=sharing) | [Lab 9: Network analysis + cool extras](https://github.com/allisonhorst/esm-244-lab-9)
