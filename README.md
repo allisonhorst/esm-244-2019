@@ -1,6 +1,7 @@
 # ESM 244
-
 Winter 2019
+
+[Allison Horst](https://github.com/allisonhorst)
 
 Week | Lecture Links | Lab Materials
 -----|---------------|--------------
